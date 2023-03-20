@@ -1,5 +1,9 @@
 # Hello! 👋🏻 My name is Constantine
-I am a student at IEE | IHU<br><br>🌍 I am based in Greece<br>🚀 I am open to working together on fun projects<br>✉️ You can contact me at konstantinosyants@gmail.com
+I am a student at IEE | IHU<br>
+<br>🌍 I am based in Greece
+<br>🚀 Some of my interests include: AI, robotics, autonomous vehicles, cryptography, app development and looking to gain even more! 
+<br>🪅 I am open to working together on fun projects
+<br>✉️ You can contact me at konstantinosyants@gmail.com
 
 
 # 💻 Tech Stack:
